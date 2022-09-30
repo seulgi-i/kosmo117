@@ -1,5 +1,0 @@
-view
-튤립total 장미total **total
-튤립money 장미money **money
-
-dto 식으로 1줄로 나와야해 
